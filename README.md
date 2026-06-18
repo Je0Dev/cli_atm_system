@@ -1,6 +1,6 @@
 # A Command-Line Atm System
 ---
- > Made for a University Lesson. I made one or two additions but nothing too much since then.
+ > Made for a University Lesson. Nothing too spectacular here to see.
 
 ## ✨ Key Features
 ---
